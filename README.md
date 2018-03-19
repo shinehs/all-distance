@@ -3,8 +3,7 @@
 
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi48tidnrj20bf06v749.jpg)!
 
-* `offsetheight`:开发者工具选择工具选中后看到的高度，可理解为div的可视高度， 
-offsetheight=height+padding+border+横向滚动轴高度。
+* `offsetheight`:开发者工具选择工具选中后看到的高度，可理解为div的可视高度， offsetheight=height+padding+border+横向滚动轴高度。
 
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4fpifumj20bf06vaa1.jpg)
 
@@ -13,8 +12,7 @@ offsetheight=height+padding+border+横向滚动轴高度。
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4qssm95j20f6072wei.jpg)
 
 
-* `outerheight`:元素自身高度 + padding + border 。  outerheight=height+padding+border。
-如果参数为true时，高度为：元素自身高度 + padding + border +margin
+* `outerheight`:元素自身高度 + padding + border 。  outerheight=height+padding+border。如果参数为true时，高度为：元素自身高度 + padding + border +margin
 
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4v0xqevj20f605x3yk.jpg)
 
