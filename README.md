@@ -2,7 +2,8 @@
 * `clientheight`:可视内容区域高度（不包含border）。clientheight=height+padding-横向滚动轴高度。
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi48tidnrj20bf06v749.jpg)!
 
-* `offsetheight`:开发者工具选择工具选中后看到的高度，可理解为div的可视高度， offsetheight=height+padding+border+横向滚动轴高度。
+* `offsetheight`:开发者工具选择工具选中后看到的高度，可理解为div的可视高度， 
+offsetheight=height+padding+border+横向滚动轴高度。
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4fpifumj20bf06vaa1.jpg)
 
 * `innerheight`:包括元素自身的高度+padding部分。 innerheight=height+padding
