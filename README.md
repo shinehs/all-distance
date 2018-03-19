@@ -40,7 +40,7 @@ offsetTop = pardent.marginTop +pardent.borderWidth+ pardent.paddingWidth =20+20+
 
 * `jquery.innerheight()`:高度范围是所匹配元素的高度height+padding
 * `jquery.outerheight()`:高度范围是所匹配元素的高度height+padding+border；
-* `outerheight(true)`:高度范围是所匹配元素的高度height+padding+border+margin；
+* `jquery.outerheight(true)`:高度范围是所匹配元素的高度height+padding+border+margin；
 * `$(window).width()` = width + padding  等同于 document.documentElement.clientWidth
 * `$(window).height()` = height + padding 等同于 document.documentElement.clientHeight
 
