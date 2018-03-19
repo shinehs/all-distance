@@ -24,6 +24,8 @@
 
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4os28vqj20e70bhdfw.jpg)
 
+* `style.height`:只有将高度定义在元素的style属性中这个变量才有效，才可以被读取。如果是抽取到了样式表中是无法取到的。
+
 
 
 
