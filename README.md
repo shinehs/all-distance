@@ -36,7 +36,7 @@ offsetTop = pardent.marginTop +pardent.borderWidth+ pardent.paddingWidth =20+20+
 * window.innerHeight = height + padding + border + 横向滚动条高度
 * window.outerWidth = width + padding + border + 纵向滚动条宽度
 * window.outerHeight = height + padding + border + 横向滚动条高度 + 工具条高度
-* document.body.clientWidth与document.body.clientHeight：document.body.clientWidth获得的也是可视区域的宽度，但是document.body.clientHeight获得的是body内容的高度，如果内容只有200px，那么这个高度也是200px,如果想通过它得到屏幕可视区域的宽高，需要样式设置，如下：
+* document.body.clientWidth与document.body.clientHeight：document.body.clientWidth获得的也是可视区域的宽度，但是document.body.clientHeight获得的是body内容的高度，如果内容只有200px，那么这个高度也是200px,如果想通过它得到屏幕可视区域的宽高
 
 * `jquery.innerheight()`:高度范围是所匹配元素的高度height+padding
 * `jquery.outerheight()`:高度范围是所匹配元素的高度height+padding+border；
