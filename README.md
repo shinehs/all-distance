@@ -8,7 +8,9 @@
 * `innerheight`:包括元素自身的高度+padding部分。 innerheight=height+padding
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4qssm95j20f6072wei.jpg)
 
-* `outerheight`:元素自身高度 + padding + border 。  outerheight=height+padding+border。如果参数为true时，高度为：元素自身高度 + padding + border +margin
+
+* `outerheight`:元素自身高度 + padding + border 。  outerheight=height+padding+border。
+如果参数为true时，高度为：元素自身高度 + padding + border +margin
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi4v0xqevj20f605x3yk.jpg)
 
 * `height`:元素本身的高度，不包括padding、border、margin
