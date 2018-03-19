@@ -26,11 +26,11 @@
 
 * `style.height`:只有将高度定义在元素的style属性中这个变量才有效，才可以被读取。如果是抽取到了样式表中是无法取到的。
 
-* `offsetTop`: 这个属性与offsetParent有关：返回该对象元素边界的左上角顶点相对于offsetParent的左上角顶点的水平偏移量。可以理解为容器相对于document的top的绝对偏移。等于top+margin-top
-offsetTop = pardent.margin-top +pardent.border-width+ pardent.padding-width =20+20+40;
+* `offsetTop`: 这个属性与offsetParent有关：返回该对象元素边界的左上角顶点相对于offsetParent的左上角顶点的水平偏移量。可以理解为容器相对于document的top的绝对偏移。等于top+marginTop
+offsetTop = pardent.marginTop +pardent.borderWidth+ pardent.paddingWidth =20+20+40;
 ![image](http://ww1.sinaimg.cn/large/639d3769gy1fpi5zu4setj20g40bqdfw.jpg)
 
-* `clientTop`: 容器内部相对于容器本身的top偏移，实际就是 上border-width 
+* `clientTop`: 容器内部相对于容器本身的top偏移，实际就是 上borderWidth 
 
 
 
